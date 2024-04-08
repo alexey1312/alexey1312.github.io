@@ -90,9 +90,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: alexey1312/alexey1312.github.io
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOKnL9Lg
+    category: General
+    category_id: DIC_kwDOKnL9Ls4CejZX
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
